@@ -1,5 +1,5 @@
 # General
-.vagrant/rgloader/loader.rb 
+**.vagrant/rgloader/loader.rb 
 
 # Log files (if you are creating logs in debug mode, uncomment this)
 # *.log
